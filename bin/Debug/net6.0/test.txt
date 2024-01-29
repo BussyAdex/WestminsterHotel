@@ -1,0 +1,8 @@
+Room Information
+No Floor Size   Price     RoomDate      RoomType
+1  245  Single  5000  1/1/2022 12:00:00 AM  Standard Room
+2  245  Tripple  1000  1/1/2022 12:00:00 AM  Deluxe Room
+
+
+Booking Information
+No Information for bookings available yet

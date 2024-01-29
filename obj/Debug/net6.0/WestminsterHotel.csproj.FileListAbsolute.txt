@@ -1,0 +1,14 @@
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\bin\Debug\net6.0\WestminsterHotel.exe
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\bin\Debug\net6.0\WestminsterHotel.deps.json
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\bin\Debug\net6.0\WestminsterHotel.runtimeconfig.json
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\bin\Debug\net6.0\WestminsterHotel.dll
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\bin\Debug\net6.0\WestminsterHotel.pdb
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.AssemblyInfoInputs.cache
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.AssemblyInfo.cs
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.csproj.CoreCompileInputs.cache
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.dll
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\refint\WestminsterHotel.dll
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.pdb
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\WestminsterHotel.genruntimeconfig.cache
+C:\Users\BUSSYADEX\source\repos\WestminsterHotel\obj\Debug\net6.0\ref\WestminsterHotel.dll
